@@ -1,0 +1,16 @@
+{
+  "name": "poc-business-as-dao",
+  "version": "1.0.0",
+  "description": "This project aims at creating a generic DAO contract unlocking all advantages of running a bussines as a DAO. To determine these perks, this project also has the goal to scientificially research pros and cons of being a DAO as a business.",
+  "main": "index.js",
+  "dependencies": {
+    "hardhat": "^2.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

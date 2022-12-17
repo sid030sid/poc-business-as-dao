@@ -4,7 +4,7 @@
 This project aims at creating a generic DAO contract unlocking all advantages of running a business as a DAO. To determine these perks, this project also has the goal to scientificially research pros and cons of businesses being DAOs.
 
 ## Tech stack
-The generic DAO contract is coded in [Soldidity v0.8.17](https://docs.soliditylang.org/en/v0.8.17/) and is tested by the hardhat framewor which uses [Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/), and [Ethers.js](https://docs.ethers.io/v5/).
+The generic DAO contract is coded in [Soldidity v0.8.17](https://docs.soliditylang.org/en/v0.8.17/) and is tested by the hardhat framework which uses [Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/), and [Ethers.js](https://docs.ethers.io/v5/).
 
 ## Installation
 1. clone repo

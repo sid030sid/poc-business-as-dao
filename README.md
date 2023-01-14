@@ -48,3 +48,6 @@ TBA
 
 ### Conclusion
 TBA
+
+### Papers talking about this topic
+1. https://www.weforum.org/agenda/2022/06/are-dao-the-business-structures-of-the-future/

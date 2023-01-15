@@ -23,6 +23,11 @@ The generic DAO contract is coded in [Soldidity v0.8.17](https://docs.solidityla
 
 
 
+## Potential conferences to hand in paper about running businesses asa DAOs
+TBA
+
+
+
 ## Research: pros and cons of businesses being DAOs
 ### Abstract
 TBA

@@ -3,8 +3,12 @@
 ## About
 This project aims at creating a generic DAO contract unlocking all advantages of running a business as a DAO. To determine these perks, this project also has the goal to scientificially research pros and cons of businesses being DAOs.
 
+
+
 ## Tech stack
 The generic DAO contract is coded in [Soldidity v0.8.17](https://docs.soliditylang.org/en/v0.8.17/) and is tested by the hardhat framework which uses [Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/), and [Ethers.js](https://docs.ethers.io/v5/).
+
+
 
 ## Installation
 1. clone repo
@@ -12,8 +16,12 @@ The generic DAO contract is coded in [Soldidity v0.8.17](https://docs.solidityla
 3. run ```npx hardhat run scripts/deploy.js``` to deploy contracts to local environment
 4. run ```REPORT_GAS=true npx hardhat test``` to test contracts with a report on gas
 
+
+
 ## Potential conferences to publish paper at
 - publish for "Administrative Sciences" at [LBIS conference](https://lbisconference.com/publication-opportunities/)
+
+
 
 ## Finding paper topic about running businesses as DAOs
 ### Papers discussing running businesses as DAOs
@@ -23,11 +31,6 @@ The generic DAO contract is coded in [Soldidity v0.8.17](https://docs.solidityla
 
 ### What are potential gaps in literature about running businesses as DAOs this paper can fill?
 1. lack of PoC?
-
-
-
-## Potential conferences to hand in paper about running businesses asa DAOs
-TBA
 
 
 
@@ -55,7 +58,6 @@ TBA
         1. DAO compatable businesses: public companies (--> EquityToken), associations/communities, NGOs, ...
         2. DAO uncompatable businesses: GmbH (since not all people sh),
     - Which businesses does this research consider: public company, family business, middle sized company, associations ... etc.)?
-
 
 ### Main part
 - How do DAO contracts look like as of now? 

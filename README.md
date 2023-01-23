@@ -12,6 +12,9 @@ The generic DAO contract is coded in [Soldidity v0.8.17](https://docs.solidityla
 3. run ```npx hardhat run scripts/deploy.js``` to deploy contracts to local environment
 4. run ```REPORT_GAS=true npx hardhat test``` to test contracts with a report on gas
 
+## Potential conferences to publish paper at
+- publish for "Administrative Sciences" at [LBIS conference](https://lbisconference.com/publication-opportunities/)
+
 ## Finding paper topic about running businesses as DAOs
 ### Papers discussing running businesses as DAOs
 - https://www.weforum.org/agenda/2022/06/are-dao-the-business-structures-of-the-future/
